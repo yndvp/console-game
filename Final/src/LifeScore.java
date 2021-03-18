@@ -12,6 +12,7 @@ public class LifeScore {
 	public static String[] workRecordQuestions = {"Did you come to work on time?", "Have you completed your quota?"};
 	public static int[][] workRecordArray = new int[3][2];
 	public static int wow = 5;
+	
 	//Create college life method
 	public static CollegeLifeDataStorage collegeLife()
 	{
