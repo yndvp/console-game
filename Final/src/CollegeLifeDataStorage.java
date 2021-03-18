@@ -6,7 +6,6 @@
 public class CollegeLifeDataStorage {
 	//Instance variable
 	private int score;
-	private int sdfs;
 	
 	//Constructor
 	public CollegeLifeDataStorage(int score)
